@@ -9,7 +9,8 @@ this is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for Git training demos
 
 ## Deployment
 
+This is a sample Web project, Deployment can be on any web server or even local file system.
