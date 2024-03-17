@@ -14,3 +14,6 @@ Sample website with plenty of files for Git training demos
 ## Deployment
 
 This is a sample Web project, Deployment can be on any web server or even local file system.
+
+##Copyright
+2014  Git.Trainging
