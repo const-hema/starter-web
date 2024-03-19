@@ -20,4 +20,4 @@ This is a sample Web project, Deployment can be on any web server or even local 
  please fork this repository and then issue pull requests for review.
 
 ##Copyright
-2014  Git.Trainging
+2014  Git.Trainging. All  rights reserved
